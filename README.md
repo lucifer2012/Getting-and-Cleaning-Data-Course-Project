@@ -3,7 +3,7 @@ Tidy data set and final project for this course
 
 This folder contains the code and clean dataset the for this course
 
-The R script bascially contains serveral steps to get the final clean and tidy data:
+The R script(run_analysis.R) bascially contains serveral steps to get the final clean and tidy data:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
