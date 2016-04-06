@@ -62,3 +62,5 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
+
+Today is April 6th, 2016. Have to finish my theis really quick!
